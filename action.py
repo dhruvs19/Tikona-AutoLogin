@@ -2,6 +2,7 @@
 
 import requests
 import sys
+import os
 import re
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.poolmanager import PoolManager
